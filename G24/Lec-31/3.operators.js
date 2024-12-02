@@ -65,7 +65,7 @@ console.log(i || j);
 console.log(!j);
 
 // let g = 10
-// let f = ++g;
+// // let f = ++g;
 // let f = g++;
 // console.log(f)
 // console.log(g)

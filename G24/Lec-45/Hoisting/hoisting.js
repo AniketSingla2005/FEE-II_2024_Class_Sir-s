@@ -9,13 +9,13 @@ function myfunc() {
 myfunc();
 
 // // 1. var: undefined: top of the scope
-// console.log(a); //undefined
+console.log(a); //undefined
 
 // var a = 10;
-// b();
+b();
 
-// function b() {
-//   console.log(c);
-//   var c = 20;
-//   console.log(c);
-// }
+function b() {
+  console.log(c);
+  var c = 20;
+  console.log(c);
+}

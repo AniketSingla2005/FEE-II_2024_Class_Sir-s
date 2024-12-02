@@ -10,7 +10,6 @@ console.log(typeof(b))
 console.log(c)
 console.log(typeof(c))
 
-
 // 2.string:
 let name = "tarun"
 console.log(name)
@@ -25,7 +24,8 @@ let y;
 console.log(typeof(y))
 y = 5;
 console.log(y)
-
+console.log(typeof(y))
+console.log("hi")
 // null
 let j = null;
 console.log(typeof(j))

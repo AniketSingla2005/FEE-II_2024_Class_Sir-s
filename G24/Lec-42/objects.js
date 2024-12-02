@@ -7,14 +7,14 @@
 
 // B: literals:
 
-// const user = 
-// {
-//     name: 'shivam',    //name: key, shivam: value
-//     'full name': 'shivam singh',
-//     age: 24,
-//     Class: 'FEE',
-//     email: 'shivam.webcraft@gmail.com'
-// }
+const user = 
+{
+    name: 'shivam',    //name: key, shivam: value
+    'full name': 'shivam singh',
+    age: 24,
+    Class: 'FEE',
+    email: 'shivam.webcraft@gmail.com'
+}
 
 // updating object:
 // user.name = 'shivam singh'
@@ -47,7 +47,7 @@
 // console.log(users.user2.age)
 
 
-// object merge:
+// // object merge:
 const user1 = {name1: 'Yash', age1:25};
 const user2 = {name2: 'Devdutt', age2:24};
 
